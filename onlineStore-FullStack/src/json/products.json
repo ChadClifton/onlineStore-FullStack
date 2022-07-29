@@ -1,0 +1,50 @@
+[
+  {
+    "id": "h01",
+    "range": "medium",
+    "name": "Haxtec Metal Dice",
+    "image": "src/images/Prod1/haxtecMetalDice.jpg",
+    "price": 550,
+    "description": "A full dice set inspired by the Arcane Netflix show. This dice set comes in purple or blue shades and will last along time thanks to their metallic make."
+  },
+  {
+    "id": "h02",
+    "range": "high",
+    "name": "Hex Chest Dice Box",
+    "image": "src/images/Prod2/hexChestDiceBox.jpg",
+    "price": 960,
+    "description": "A handcrafted wooden dice box, with selectable engravings or art. Emerald ocean dice set included"
+  },
+  {
+    "id": "h03",
+    "range": "high",
+    "name": "D&D Dice Jail",
+    "image": "src/images/Prod3/dndDiceJail.jpg",
+    "price": 930,
+    "description": "What do you do with the D20 that's rolled 1's all night? THROW THEM IN JAIL! This handcrafted wooden dice jail is perfect for punishing and containing dice. Comes with a set of Starry Night dice."
+  },
+  {
+    "id": "h04",
+    "range": "medium",
+    "name": "Arcane Vein Dice",
+    "image": "src/images/Prod4/arcaneVein.jpg",
+    "price": 550,
+    "description": "Discovering the mysteries of the Arcane are dangerous, and need the right equipment. This dice set is set with veins of purple or green color."
+  },
+  {
+    "id": "h05",
+    "range": "high",
+    "name": "Leather Dice Tray",
+    "image": "src/images/Prod5/leatherDiceTray.jpg",
+    "price": 1230,
+    "description": "A foldable leather dice tray, with selectable art works across a wide range of games and custom art is welcome."
+  },
+  {
+    "id": "h06",
+    "range": "low",
+    "name": "Bolivian Rosewood Dice Tray",
+    "image": "src/images/Prod6/bolivianRosewoodTray.jpg",
+    "price": 200,
+    "description": "A cheap but sturdy and magnificent dice tray. With leather inlining and a wooden frame made from Rosewood, this is an all time favorite to use"
+  }
+]

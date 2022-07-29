@@ -1,0 +1,50 @@
+/* Products info */
+.cards {
+    max-width: 1500px;
+    margin: 3px auto;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .card {
+    height: auto;
+    width: 100%;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    border: 1px solid #208f16;
+    align-items: center;
+  }
+
+  .card .accommodation {
+    width: 90%;
+    height: auto;
+    border-radius: 15px 15px 0px 0px;
+  }
+
+  .card p {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    font-weight: 700;
+  }
+
+  .card .booking-btn {
+    float: right;
+    float: end;
+    background-color: #9d15d3;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    margin-top: 4px;
+    margin-right: 20px;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .card .booking-btn:hover {
+    box-shadow: 2px 2px 5px rgb(151, 151, 151);
+  }
+  .booking-btn:active {
+    background-color: #ff5261;
+  }
